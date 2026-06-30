@@ -1,0 +1,62 @@
+{
+  "generated": "2026-06-30T16:27:37.228105",
+  "ais_gaps": [
+    {
+      "mmsi": "789012345",
+      "vessel_name": "PHANTOM MARINER",
+      "gap_start": "2026-06-03 12:30:00",
+      "gap_end": "2026-06-09 16:10:00",
+      "gap_duration_hours": 147.7,
+      "lat_before": 30.2801,
+      "lon_before": 59.24858,
+      "lat_after": 30.25252,
+      "lon_after": 59.24233,
+      "position_jump_deg": 0.028,
+      "risk_score": 40,
+      "risk_tier": "HIGH"
+    },
+    {
+      "mmsi": "567890123",
+      "vessel_name": "SEA SHADOW",
+      "gap_start": "2026-06-05 10:10:00",
+      "gap_end": "2026-06-09 05:40:00",
+      "gap_duration_hours": 91.5,
+      "lat_before": 20.3437,
+      "lon_before": 60.96954,
+      "lat_after": 20.33346,
+      "lon_after": 61.00842,
+      "position_jump_deg": 0.04,
+      "risk_score": 40,
+      "risk_tier": "HIGH"
+    },
+    {
+      "mmsi": "456789012",
+      "vessel_name": "EASTERN PROMISE",
+      "gap_start": "2026-06-06 06:20:00",
+      "gap_end": "2026-06-07 10:50:00",
+      "gap_duration_hours": 28.5,
+      "lat_before": 35.64323,
+      "lon_before": 56.62437,
+      "lat_after": 35.65115,
+      "lon_after": 56.64937,
+      "position_jump_deg": 0.026,
+      "risk_score": 25,
+      "risk_tier": "MEDIUM"
+    },
+    {
+      "mmsi": "345678901",
+      "vessel_name": "GULF TRADER",
+      "gap_start": "2026-06-08 20:20:00",
+      "gap_end": "2026-06-10 01:50:00",
+      "gap_duration_hours": 29.5,
+      "lat_before": 23.09198,
+      "lon_before": 42.04415,
+      "lat_after": 23.07372,
+      "lon_after": 42.00211,
+      "position_jump_deg": 0.046,
+      "risk_score": 25,
+      "risk_tier": "MEDIUM"
+    }
+  ],
+  "spoofing_flags": []
+}
