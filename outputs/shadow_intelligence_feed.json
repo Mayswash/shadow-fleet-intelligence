@@ -1,0 +1,119 @@
+{
+  "generated": "2026-06-30T16:34:06.627760",
+  "product": "Shadow Fleet Intelligence Feed",
+  "version": "1.0",
+  "vessels": [
+    {
+      "mmsi": "567890123",
+      "vessel_name": "SEA SHADOW",
+      "shadow_score": 54,
+      "risk_tier": "MEDIUM",
+      "owner": "Arctic Star Trading",
+      "flag_state": "Gabon",
+      "sanction_program": "RUSSIA",
+      "max_dark_period_hours": 91.5,
+      "score_components": {
+        "ais_gap": 25,
+        "position_jump": 2,
+        "ofac": 27,
+        "spoofing": 0
+      }
+    },
+    {
+      "mmsi": "345678901",
+      "vessel_name": "GULF TRADER",
+      "shadow_score": 42,
+      "risk_tier": "MEDIUM",
+      "owner": "Kaveh Shipping LLC",
+      "flag_state": "Panama",
+      "sanction_program": "IRAN",
+      "max_dark_period_hours": 29.5,
+      "score_components": {
+        "ais_gap": 15,
+        "position_jump": 2,
+        "ofac": 25,
+        "spoofing": 0
+      }
+    },
+    {
+      "mmsi": "789012345",
+      "vessel_name": "PHANTOM MARINER",
+      "shadow_score": 37,
+      "risk_tier": "LOW",
+      "owner": "Eastern Pacific Holdings",
+      "flag_state": "Cameroon",
+      "sanction_program": "None",
+      "max_dark_period_hours": 147.7,
+      "score_components": {
+        "ais_gap": 35,
+        "position_jump": 2,
+        "ofac": 0,
+        "spoofing": 0
+      }
+    },
+    {
+      "mmsi": "456789012",
+      "vessel_name": "EASTERN PROMISE",
+      "shadow_score": 17,
+      "risk_tier": "LOW",
+      "owner": "Gulf Maritime FZE",
+      "flag_state": "UAE",
+      "sanction_program": "None",
+      "max_dark_period_hours": 28.5,
+      "score_components": {
+        "ais_gap": 15,
+        "position_jump": 2,
+        "ofac": 0,
+        "spoofing": 0
+      }
+    },
+    {
+      "mmsi": "123456789",
+      "vessel_name": "PACIFIC STAR",
+      "shadow_score": 0,
+      "risk_tier": "LOW",
+      "owner": "Pacific Shipping Co",
+      "flag_state": "USA",
+      "sanction_program": "None",
+      "max_dark_period_hours": 0.0,
+      "score_components": {
+        "ais_gap": 0,
+        "position_jump": 0,
+        "ofac": 0,
+        "spoofing": 0
+      }
+    },
+    {
+      "mmsi": "234567890",
+      "vessel_name": "OCEAN PIONEER",
+      "shadow_score": 0,
+      "risk_tier": "LOW",
+      "owner": "Ocean Lines Ltd",
+      "flag_state": "Norway",
+      "sanction_program": "None",
+      "max_dark_period_hours": 0.0,
+      "score_components": {
+        "ais_gap": 0,
+        "position_jump": 0,
+        "ofac": 0,
+        "spoofing": 0
+      }
+    },
+    {
+      "mmsi": "678901234",
+      "vessel_name": "ARCTIC WIND",
+      "shadow_score": 0,
+      "risk_tier": "LOW",
+      "owner": "Nordic Freight AS",
+      "flag_state": "Denmark",
+      "sanction_program": "None",
+      "max_dark_period_hours": 0.0,
+      "score_components": {
+        "ais_gap": 0,
+        "position_jump": 0,
+        "ofac": 0,
+        "spoofing": 0
+      }
+    }
+  ]
+}
