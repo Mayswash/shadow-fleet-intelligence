@@ -17,5 +17,14 @@ Python · NumPy · GeoPandas · Rasterio · Scikit-learn · FastAPI · ReportLab
 ## Pipeline
 SAR Acquisition → CFAR Detection → AIS Gap Analysis → OFAC Matching → Risk Scoring → PDF Report
 
-## Target buyers
-Maritime insurers · Defense contractors · Government agencies (NGA, DHS, OFAC)
+## Applications
+Maritime domain awareness · Sanctions enforcement · GEOINT analysis · 
+Defense intelligence · Environmental monitoring
+
+## About
+Built as a portfolio project targeting careers in GEOINT, remote sensing, 
+and defense intelligence. Part of an ongoing geospatial portfolio focused 
+on satellite imagery analysis and intelligence automation.
+
+## Portfolio
+github.com/Mayswash/gis-portfolio
